@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">THMBProj</string>
+    <string name="topRated">Топ Рейтинга</string>
+    <string name="popular">Популярные</string>
+    <string name="favorite">Избранное</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="deleteFromFavorite">Убрать из избранного</string>
+    <string name="addToFavorite">Добавить в избранное</string>
+</resources>
